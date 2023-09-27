@@ -43,11 +43,6 @@ li{
 .medalha{
     list-style-image: url("medalha.png");
 }
-dd{
-    font-family: 'Times New Roman', Times, serif;
-    text-decoration: none;
-    color: #adff2f;
-}
 .circle{
     color: #adff2f;
     list-style-type: none;
