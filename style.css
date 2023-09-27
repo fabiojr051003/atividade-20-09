@@ -20,6 +20,9 @@ h2{
 li{
     font-size: 25px;
 }
+.ul li{
+    color: #adff2f;
+}
 .d{
     list-style-type: upper-roman;
     color: #adff2f;
