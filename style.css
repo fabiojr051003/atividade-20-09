@@ -1,0 +1,77 @@
+body{
+    background: linear-gradient(to left, #008080,#191970 );
+    margin: 0px;
+    padding: 0px;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    text-align: center;
+    color: aliceblue
+}
+.b{
+    color:#adff2f
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #adff2f;
+}
+li{
+    font-size: 25px;
+}
+.d{
+    list-style-type: upper-roman;
+    color: #adff2f;
+}
+
+.bola{
+    list-style-image: url("bola.png");
+}
+.sono{
+    list-style-image: url("sono.png");
+}
+.monoculo{
+    list-style-image: url("monoculo.png");
+}
+.calor{
+    list-style-image: url("calor.png");
+}
+.medalha{
+    list-style-image: url("medalha.png");
+}
+dd{
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: #adff2f;
+}
+.circle{
+    color: #adff2f;
+    list-style-type: none;
+}
+
+.direita{
+    list-style-image: url("direita.png");
+    color:#adff2f;
+    font-size: 20px;
+}
+.km{
+    list-style-image: url("km.png");
+    color:#adff2f;
+    font-size: 20px;
+}
+.semaforo{
+    list-style-image: url("semaforo.png");
+    color:#adff2f;
+    font-size: 20px;
+}
+.direita2{
+    list-style-image: url("direita2.png");
+    color:#adff2f;
+    font-size: 20px;
+}
+.pare{
+    list-style-image: url("pare.png");
+    color:#adff2f;
+    font-size: 20px;
+}
